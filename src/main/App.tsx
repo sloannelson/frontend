@@ -7,7 +7,7 @@ import MovieList from "../movie/MovieList";
 function App() {
   return (
     <div className="App">
-      <Header slogan="Joel Hilton Film Collection" />
+      <Header slogan="Joel Hilton Film Collection!" />
       <MovieList />
     </div>
   );
